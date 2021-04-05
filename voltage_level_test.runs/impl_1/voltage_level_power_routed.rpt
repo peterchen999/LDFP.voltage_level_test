@@ -1,7 +1,7 @@
 Copyright 1986-2016 Xilinx, Inc. All Rights Reserved.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 | Tool Version     : Vivado v.2016.2 (win64) Build 1577090 Thu Jun  2 16:32:40 MDT 2016
-| Date             : Tue Apr 06 01:47:37 2021
+| Date             : Tue Apr 06 02:14:37 2021
 | Host             : LAPTOP-04Q6PJAI running 64-bit major release  (build 9200)
 | Command          : report_power -file voltage_level_power_routed.rpt -pb voltage_level_power_summary_routed.pb -rpx voltage_level_power_routed.rpx
 | Design           : voltage_level
@@ -30,8 +30,8 @@ Table of Contents
 ----------
 
 +--------------------------+-------+
-| Total On-Chip Power (W)  | 0.808 |
-| Dynamic (W)              | 0.734 |
+| Total On-Chip Power (W)  | 0.805 |
+| Dynamic (W)              | 0.731 |
 | Device Static (W)        | 0.073 |
 | Effective TJA (C/W)      | 5.0   |
 | Max Ambient (C)          | 81.0  |
@@ -54,10 +54,10 @@ Table of Contents
 |   LUT as Logic |     0.001 |        1 |     20800 |           <0.01 |
 |   Register     |    <0.001 |        1 |     41600 |           <0.01 |
 |   Others       |     0.000 |        1 |       --- |             --- |
-| Signals        |     0.032 |        7 |       --- |             --- |
+| Signals        |     0.029 |        7 |       --- |             --- |
 | I/O            |     0.695 |        5 |       106 |            4.72 |
 | Static Power   |     0.073 |          |           |                 |
-| Total          |     0.808 |          |           |                 |
+| Total          |     0.805 |          |           |                 |
 +----------------+-----------+----------+-----------+-----------------+
 
 
@@ -67,7 +67,7 @@ Table of Contents
 +-----------+-------------+-----------+-------------+------------+
 | Source    | Voltage (V) | Total (A) | Dynamic (A) | Static (A) |
 +-----------+-------------+-----------+-------------+------------+
-| Vccint    |       1.000 |     0.062 |       0.051 |      0.011 |
+| Vccint    |       1.000 |     0.059 |       0.048 |      0.011 |
 | Vccaux    |       1.800 |     0.038 |       0.025 |      0.013 |
 | Vcco33    |       3.300 |     0.194 |       0.193 |      0.001 |
 | Vcco25    |       2.500 |     0.000 |       0.000 |      0.000 |
@@ -134,7 +134,7 @@ Table of Contents
 +---------------+-----------+
 | Name          | Power (W) |
 +---------------+-----------+
-| voltage_level |     0.734 |
+| voltage_level |     0.731 |
 +---------------+-----------+
 
 

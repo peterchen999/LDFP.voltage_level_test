@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<Checkpoint Version="5" Minor="0">
+	<BUILD_NUMBER Name="1577090"/>
+	<FULL_BUILD Name="SW Build 1577090 on Thu Jun  2 16:32:40 MDT 2016"/>
+	<PRODUCT Name="Vivado v2016.2 (64-bit)"/>
+	<Part Name="xc7a35tcpg236-1"/>
+	<Top Name="voltage_level"/>
+	<DisableAutoIOBuffers Name="0"/>
+	<OutOfContext Name="0"/>
+	<File Type="SHAPE" Name="voltage_level.shape" ModTime="1617644785"/>
+	<File Type="EDIF" Name="voltage_level.edf" ModTime="1617644785"/>
+	<File Type="XN" Name="voltage_level.xn" ModTime="1617644785"/>
+	<File Type="VERILOG_STUB" Name="voltage_level_stub.v" ModTime="1617644785"/>
+	<File Type="VHDL_STUB" Name="voltage_level_stub.vhdl" ModTime="1617644785"/>
+	<File Type="INCR" Name="voltage_level.incr" ModTime="1617644785"/>
+	<File Type="RDA" Name="voltage_level.rda" ModTime="1617644785"/>
+	<File Type="REPLAY" Name="voltage_level_iPhysOpt.tcl" ModTime="1617644785"/>
+	<File Type="WDF" Name="voltage_level.wdf" ModTime="1617644785"/>
+</Checkpoint>
+

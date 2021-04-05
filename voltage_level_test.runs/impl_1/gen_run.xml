@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<GenRun Id="impl_1" LaunchPart="xc7a35tcpg236-1" LaunchTime="1617644802">
+<GenRun Id="impl_1" LaunchPart="xc7a35tcpg236-1" LaunchTime="1617646418">
+  <File Type="OPT-TIMING" Name="voltage_level_timing_summary_opted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="voltage_level_physopt.dcp"/>
+  <File Type="PA-DCP" Name="voltage_level.dcp"/>
   <File Type="OPT-DCP" Name="voltage_level_opt.dcp"/>
   <File Type="ROUTE-STATUS-PB" Name="voltage_level_route_status.pb"/>
   <File Type="PA-TCL" Name="voltage_level.tcl"/>
-  <File Type="RDI-RDI" Name="voltage_level.vdi"/>
-  <File Type="PWROPT-DRC" Name="voltage_level_drc_pwropted.rpt"/>
   <File Type="OPT-METHODOLOGY-DRC" Name="voltage_level_methodology_drc_opted.rpt"/>
   <File Type="INIT-TIMING" Name="voltage_level_timing_summary_init.rpt"/>
   <File Type="OPT-DRC" Name="voltage_level_drc_opted.rpt"/>
   <File Type="PWROPT-DCP" Name="voltage_level_pwropt.dcp"/>
   <File Type="OPT-HWDEF" Name="voltage_level.hwdef"/>
-  <File Type="OPT-TIMING" Name="voltage_level_timing_summary_opted.rpt"/>
+  <File Type="RDI-RDI" Name="voltage_level.vdi"/>
+  <File Type="PWROPT-DRC" Name="voltage_level_drc_pwropted.rpt"/>
   <File Type="PWROPT-TIMING" Name="voltage_level_timing_summary_pwropted.rpt"/>
   <File Type="PLACE-DCP" Name="voltage_level_placed.dcp"/>
   <File Type="PLACE-IO" Name="voltage_level_io_placed.rpt"/>
@@ -23,7 +25,6 @@
   <File Type="PLACE-TIMING" Name="voltage_level_timing_summary_placed.rpt"/>
   <File Type="POSTPLACE-PWROPT-DCP" Name="voltage_level_postplace_pwropt.dcp"/>
   <File Type="POSTPLACE-PWROPT-TIMING" Name="voltage_level_timing_summary_postplace_pwropted.rpt"/>
-  <File Type="PHYSOPT-DCP" Name="voltage_level_physopt.dcp"/>
   <File Type="PHYSOPT-DRC" Name="voltage_level_drc_physopted.rpt"/>
   <File Type="PHYSOPT-TIMING" Name="voltage_level_timing_summary_physopted.rpt"/>
   <File Type="ROUTE-DCP" Name="voltage_level_routed.dcp"/>
